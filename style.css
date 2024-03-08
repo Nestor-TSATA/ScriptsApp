@@ -1,0 +1,38 @@
+
+/* Styles personnalisés */
+
+body {
+    background-color: #f4eecf;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+}
+
+.card-text {
+    color: #6c757d;
+}
+
+.btn-edit,
+.btn-delete {
+    margin-right: 5px;
+}
+
+#bod{
+    background-color: beige;
+}
